@@ -1,0 +1,33 @@
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# PyInstaller
+TEM_autosize_analyzer/build/
+TEM_autosize_analyzer/dist/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Conda / venv (환경 폴더)
+.env/
+.venv/
+venv/
+dot_env/
+python_dot_env/
+
+# OS junk
+.DS_Store
+Thumbs.db
